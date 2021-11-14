@@ -38,7 +38,6 @@ header nav a{
     margin-right: 10px;
 }
 
-
 header nav a:hover{
     color:#fff;
 }
@@ -46,8 +45,7 @@ header nav a:hover{
 /*filme principal*/
 .filme-principal{
     font-size:16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('/img/capatop.png');
-    /* background-image: url('/img/capatop.jpg'); */
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('../img/capa-house.jpg');
 
     height:400px;
     background-size:cover;
